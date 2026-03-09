@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"duckdb_jdbc-19cd2328cb0-44c274d429dbd010": {
+		"duckdb_jdbc-19cd2284fef-20b1e0d3879e15ab": {
 			"provider": "duckdb",
 			"driver": "duckdb_jdbc",
 			"name": "enpal_sql_challenge",
