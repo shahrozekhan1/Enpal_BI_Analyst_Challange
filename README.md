@@ -95,7 +95,7 @@ Time_Conversion
 
 ```bash
 # 1. Open the report
-cohort_analysis.pbip  →  Power BI Desktop
+cohort_analysis.pbix  →  Power BI Desktop
 
 # 2. Refresh data
 Home → Refresh  (ensure data source credentials are configured)
